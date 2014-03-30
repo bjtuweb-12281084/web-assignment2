@@ -1,0 +1,102 @@
+/* CSS Document */
+body {
+	text-align:center;
+}
+.top {
+	text-align:right;
+	font-size:13px;
+	margin:0px;padding:0px;
+}
+.abc {
+	text-decoration:underline;
+	color: blue;
+	font-size:14px;
+	font-weight: bold
+	margin:5px; padding:5px;
+}
+.c {
+	color: #666666;
+	font-size:13px;
+}
+.b {
+	text-decoration:none;
+	font-size:14px;
+	color: #0066CC;
+}
+a:hover {
+	text-decoration:underline;
+}
+.jiange {
+	
+	margin:17px; padding:17px;
+}
+
+.wangye {
+	text-decoration:none;
+	color: black;
+	font-size:13px;
+	font-weight: bold
+}
+p {
+	font-family:arial,宋体,sans-serif;
+}
+.ko {
+	line-height: 0px;
+}
+.text {
+	width:120px;
+	height:40px
+}
+.move {
+	position:relative;
+	left:42px;
+	margin:0px;
+	padding:0px;
+	width:
+}
+#button{
+	width:100px;
+	height:33px;
+	font-size:16px;    
+} 
+#input{
+	width:550px;
+	height:32px;
+	
+	}
+table
+  {
+    margin:0 auto; /*表格居中*/
+	text-align:left;
+    border-collapse:collapse;
+  }
+
+table, td, th
+  {
+  padding : 8px;
+  padding-left: 20px;
+  border:1px solid #EEEEEE;
+  }
+td{
+ font-size:15px;
+ border:0px solid #FFFFFF;
+ }
+.daohang {
+	font-family: arial,宋体,sans-serif;
+	font-weight: bold;
+	color: #666666;
+	font-size:14px;
+}
+.copy {
+	font-size:16px;
+}
+.hide {
+	display:none;
+}
+.show {
+	display:block;
+}
+.yincang img {
+  float: right;
+}
+  
